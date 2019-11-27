@@ -6,6 +6,7 @@
 }
 html {
   scroll-behavior: smooth;
+  background-image: url("./img/bgCategory.jpg");
 }
 header{
   height: 100px;
